@@ -1,0 +1,68 @@
+[
+    {
+        "id": "0",
+        "petName": "Cat",
+        "image": "cat.jpg",
+        "age": "2 Years",
+        "greet": "Hello :)",
+        "screen" : "I am cute (≧∇≦)",
+        "hey": "Hey again! (｡˃ ᵕ ˂ )",
+        "price": "3500",
+        "description": "Meet the enchanting feline wonders known as pet cats! With their irresistibly soft fur and mesmerizing eyes, they are the epitome of elegance and grace. Their petite paws gracefully tiptoe across the floor, leaving behind an air of curiosity and mischief. Each cat possesses a unique personality, ranging from adventurous and playful to calm and affectionate. Cats are masters of relaxation, effortlessly curling up into perfect circles of contentment. Their mesmerizing purrs resonate deep within, soothing the soul and creating a tranquil atmosphere. With a gentle touch, their purrs become melodies of reassurance, whispering tales of trust and companionship."
+    },
+    {
+        "id": "1",
+        "petName": "Dog",
+        "image": "dog.jpg",
+        "age": "6 Years",
+        "greet": "Hello :)",
+        "screen" : "I am cute (≧∇≦)",
+        "hey": "Hey again! (｡˃ ᵕ ˂ )",
+        "price": "31,999",
+        "description": "Introducing the delightful world of pet dogs, where wagging tails and boundless joy reign supreme! These furry companions are the epitome of loyalty, showering us with unconditional love and unbridled enthusiasm. Their infectious zest for life brings warmth to every moment and leaves a trail of happiness wherever they go. With their velvety ears and adorable button noses, dogs possess an undeniable charm that melts hearts instantly. Their furry coats, ranging from fluffy to sleek, come in a kaleidoscope of colors, adding to their irresistible appeal. Whether they are small and cuddly or large and majestic, each dog radiates an aura of pure love and affection. Their playful nature knows no bounds, turning any space into a playground of fun and adventure. They eagerly chase after balls, frisbees, and their own tails, their antics bringing laughter and joy to all who witness them. From energetic zoomies to their endearing habit of tilting their heads in curiosity, their playful charm captivates hearts and ignites smiles."
+    },
+    {
+        "id": "2",
+        "petName": "Fish",
+        "image": "fish.jpg",
+        "age": "5 Months",
+        "greet": "Hello :)",
+        "screen" : "I am cute (≧∇≦)",
+        "hey": "Hey again! (｡˃ ᵕ ˂ )",
+        "price": "1199",
+        "description": "Step into the enchanting world of pet fish, where vibrant colors dance beneath the surface and tranquility reigns supreme. These aquatic beauties, with their mesmerizing scales and graceful movements, bring a touch of serenity and wonder to any space they inhabit. With their glistening tails and finned elegance, fish effortlessly glide through the water, their sleek bodies embodying a sense of ethereal grace. Each species boasts its own unique palette of colors, from the vivid hues of tropical fish to the soothing pastels of bettas. As they gracefully navigate their underwater realm, their vibrant shades shimmer and reflect, captivating our attention and soothing our souls. Watching fish swim in synchrony is akin to observing an underwater ballet. Their coordinated movements and synchronized gestures create a spectacle of beauty and elegance. From the gentle fluttering of fins to the mesmerizing undulations of their bodies, their every motion exudes a sense of tranquility, instilling a peaceful ambiance in their watery abode."
+    },
+    {
+        "id": "3",
+        "petName": "Horse",
+        "image": "horse.jpg",
+        "age": "7 Years",
+        "greet": "Hello :)",
+        "screen" : "I am cute (≧∇≦)",
+        "hey": "Hey again! (｡˃ ᵕ ˂ )",
+        "price": "600,000",
+        "description": "Enter the enchanting world of pet horses, where elegance meets untamed spirit and the bond between human and equine thrives. These magnificent creatures embody grace, strength, and a profound connection to nature, captivating our hearts with their beauty and endearing personalities. With their flowing manes and majestic stature, horses are a sight to behold. Their sleek bodies, adorned with a coat of varying colors and patterns, gleam under the sunlight. Whether they are gentle giants or dainty ponies, their presence commands attention and admiration, drawing us into their world of equine enchantment. Yet, beneath their magnificent exterior lies a gentle and nurturing spirit. Horses possess an innate ability to sense our emotions, offering solace and a listening ear without uttering a single word. They become our confidants, silently carrying our burdens and providing a safe space where we can find solace and reassurance. The bond between a pet horse and their human counterpart is one of mutual trust and companionship. Through shared adventures and quiet moments, they become faithful companions, forging an unbreakable connection that transcends time. In their presence, we find solace, guidance, and a source of unwavering support, reminding us that we are never alone."
+    },
+    {
+        "id": "4",
+        "petName": "Parrot",
+        "image": "parrot.jpg",
+        "age": "1 Year 5 Months",
+        "greet": "Hello :)",
+        "screen" : "I am cute (≧∇≦)",
+        "hey": "Hey again! (｡˃ ᵕ ˂ )",
+        "price": "50,000",
+        "description": "Step into the vibrant world of pet parrots, where colorful feathers and playful personalities collide in a symphony of joy. These charming avian companions bring a splash of tropical brilliance to our lives, enchanting us with their beauty, intelligence, and endearing quirks. With their stunning plumage adorned in a kaleidoscope of colors, parrots are like living rainbows perched upon our shoulders. From the electric blues and vivid greens to the fiery reds and sunny yellows, their feathers create a visual feast for the eyes. Each parrot species boasts its unique palette, a testament to the incredible diversity found in the avian kingdom. Parrots are not just a feast for the eyes, but also for the ears. With their melodic voices, they fill the air with an array of whistles, chirps, and mimicked sounds. From mimicking our words and laughter to replicating the melodies of our favorite tunes, their vocal talents entertain and surprise us, creating a symphony of delightful sounds that brighten our days. Playfulness is the essence of a pet parrot's spirit. They are natural clowns, turning everyday objects into toys and transforming their surroundings into a playground of endless entertainment. Whether it's hanging upside down from their perch, engaging in a game of peek-a-boo, or indulging in mischievous antics, their infectious energy and zest for life never fail to bring a smile to our faces. Parrots possess remarkable intelligence, rivaling that of some primates. Their ability to learn and mimic human speech is legendary, and their cognitive prowess often surprises us with their problem-solving skills. They eagerly engage in training sessions, eagerly soaking up knowledge and displaying their impressive abilities, proving that there's more to their colorful feathers than meets the eye."
+    },
+    {
+        "id": "5",
+        "petName": "Rabbit",
+        "image": "rabbit.jpg",
+        "age": "6 Months",
+        "greet": "Hello :)",
+        "screen" : "I am cute (≧∇≦)",
+        "hey": "Hey again! (｡˃ ᵕ ˂ )",
+        "price": "2500",
+        "description": "Enter the enchanting world of pet rabbits, where softness meets boundless energy and adorable antics unfold at every hop. These delightful furry companions bring a touch of whimsy and warmth to our lives, captivating us with their fluffy charm and endearing personalities. With their velvety fur and delicate whiskers, rabbits are the epitome of cuteness. Their coats come in a variety of colors and patterns, from snowy white to rich brown, speckled with charming spots or adorned with adorable patches. Each rabbit's fur invites us to sink our fingers into its softness, immersing ourselves in a world of comforting cuddles and gentle strokes. Their expressive eyes, bright and inquisitive, radiate curiosity and playfulness. Like sparkling gems, their eyes capture our attention, beckoning us into their world of wonder. With a single glance, they communicate their emotions, inviting us to join them on their mischievous adventures or to seek solace in their gentle presence. Their twitching noses, always on the alert, serve as a reminder of their keen senses and their connection to the natural world. As they explore their surroundings, their sensitive noses detect the faintest scents, heightening their curiosity and guiding them on new adventures. In their presence, we are reminded of the beauty of simplicity and the joy of embracing the wonders of nature. The touch of a rabbit's velvety ears against our fingertips is a gentle reminder of their delicate nature and their desire for gentle affection. As we stroke their soft fur and feel their contented purrs, we become wrapped in a cocoon of warmth and tranquility. With their gentle presence, they offer comfort during moments of solitude, providing a source of solace and companionship. Pet rabbits, with their adorable charm and playful spirits, bring a touch of magic to our lives. They embody the beauty of simplicity and remind us to appreciate the small joys that surround us. In their boundless energy and endearing personalities, they teach us the importance of playfulness and the power of unconditional love. With a pet rabbit by our side, each day becomes an enchanting adventure filled with cuddles, laughter, and heartwarming moments."
+    }
+]
