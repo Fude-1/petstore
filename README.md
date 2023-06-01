@@ -1,7 +1,7 @@
 # PETSTORE KE README
 
 ## Description
-This repository contains the source code for our online store website. It provides information about the store, allows customers to browse and purchase pets.
+This repository contains the source code for our pet online store website. It provides information about the store, allows customers to browse and purchase pets.
 
 ## Installation
 1. Clone this repository to your local machine.
