@@ -29,5 +29,4 @@ This repository contains the source code for our online store website. It provid
 ##AUTHORS
 
 - Robert Njoroge -> mainarobert961@gmail.com
-
 - Chris Ndege -> ndegechris81@gmail.com
