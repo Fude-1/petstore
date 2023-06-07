@@ -64,5 +64,71 @@
         "hey": "Hey again! (｡˃ ᵕ ˂ )",
         "price": "2500",
         "description": "Enter the enchanting world of pet rabbits, where softness meets boundless energy and adorable antics unfold at every hop. These delightful furry companions bring a touch of whimsy and warmth to our lives, captivating us with their fluffy charm and endearing personalities. With their velvety fur and delicate whiskers, rabbits are the epitome of cuteness. Their coats come in a variety of colors and patterns, from snowy white to rich brown, speckled with charming spots or adorned with adorable patches. Each rabbit's fur invites us to sink our fingers into its softness, immersing ourselves in a world of comforting cuddles and gentle strokes. Their expressive eyes, bright and inquisitive, radiate curiosity and playfulness. Like sparkling gems, their eyes capture our attention, beckoning us into their world of wonder. With a single glance, they communicate their emotions, inviting us to join them on their mischievous adventures or to seek solace in their gentle presence. Their twitching noses, always on the alert, serve as a reminder of their keen senses and their connection to the natural world. As they explore their surroundings, their sensitive noses detect the faintest scents, heightening their curiosity and guiding them on new adventures. In their presence, we are reminded of the beauty of simplicity and the joy of embracing the wonders of nature. The touch of a rabbit's velvety ears against our fingertips is a gentle reminder of their delicate nature and their desire for gentle affection. As we stroke their soft fur and feel their contented purrs, we become wrapped in a cocoon of warmth and tranquility. With their gentle presence, they offer comfort during moments of solitude, providing a source of solace and companionship. Pet rabbits, with their adorable charm and playful spirits, bring a touch of magic to our lives. They embody the beauty of simplicity and remind us to appreciate the small joys that surround us. In their boundless energy and endearing personalities, they teach us the importance of playfulness and the power of unconditional love. With a pet rabbit by our side, each day becomes an enchanting adventure filled with cuddles, laughter, and heartwarming moments."
+    },
+    {
+        "id": "6",
+        "petName": "Leashes",
+        "image": "leash.png",
+        "age": "Plenty of colours to pick from",
+        "greet": "Hello :)",
+        "screen" : "(≧∇≦)",
+        "hey": "(｡˃ ᵕ ˂ )",
+        "price": "500",
+        "description": "At our store, we prioritize the comfort of both you and your canine companion. Our leashes are designed with ergonomic handles to provide a comfortable grip and prevent strain on your hands during long walks. We also offer various leash lengths to accommodate different walking preferences, whether you prefer a shorter leash for better control or a longer one to give your dog more freedom to explore."
+    },
+    {
+        "id": "7",
+        "petName": "Scratching Post Tower",
+        "image": "tower.jpg",
+        "age": "Plenty of designs to pick from",
+        "greet": "Hello :)",
+        "screen" : "(≧∇≦)",
+        "hey": "(｡˃ ᵕ ˂ )",
+        "price": "1500",
+        "description": "Our cat scratching post towers are designed with your cat's needs in mind. Each tower is constructed using durable materials that can withstand even the most enthusiastic scratching sessions. With multiple levels, platforms, and perches, our towers provide an engaging and stimulating environment for your cat to explore, climb, and observe their surroundings. We prioritize the safety and comfort of your cat. Our scratching post towers are designed with sturdy bases and secure structures to ensure stability, allowing your cat to confidently climb and play without any worries. The materials used are also cat-friendly and easy to clean, ensuring a hygienic and long-lasting product."
+    },
+    {
+        "id": "8",
+        "petName": "Horse Saddles",
+        "image": "saddle.jpg",
+        "age": "Plenty of designs to pick from",
+        "greet": "Hello :)",
+        "screen" : "(≧∇≦)",
+        "hey": "(｡˃ ᵕ ˂ )",
+        "price": "6500",
+        "description": "Our leather horse saddles are meticulously handcrafted using top-quality leather that ensures durability and longevity. Each saddle is expertly designed to provide a secure and balanced seat, allowing riders to maintain optimal control and connection with their horses. We understand that every rider and horse pair is unique, which is why our collection features a diverse range of saddle styles to cater to different disciplines and preferences. Whether you're a seasoned competitor in the show ring, a trail enthusiast, or an all-around rider, you'll find the perfect saddle that meets your specific needs."
+    },
+    {
+        "id": "9",
+        "petName": "Fish Aquariums",
+        "image": "aquarium.jpg",
+        "age": "Plenty of designs to pick from",
+        "greet": "Hello :)",
+        "screen" : "(≧∇≦)",
+        "hey": "(｡˃ ᵕ ˂ )",
+        "price": "16,500",
+        "description": "Our fish aquariums are carefully designed to provide a safe and comfortable environment for your aquatic companions. Each aquarium is crafted with precision and made from durable materials to ensure longevity and reliability. With various sizes and styles available, you can find the perfect aquarium to accommodate your space and match your aesthetic preferences. Creating a visually stunning underwater landscape is made easy with our aquariums. From lush live plants to colorful artificial decorations, you can design a captivating underwater scene that provides both visual appeal and enriching hiding spots for your fish. Let your creativity flow and transform your aquarium into a mesmerizing aquatic paradise."
+    },
+    {
+        "id": "10",
+        "petName": "Bird Cage",
+        "image": "cage.jpg",
+        "age": "Plenty of designs to pick from",
+        "greet": "Hello :)",
+        "screen" : "(≧∇≦)",
+        "hey": "(｡˃ ᵕ ˂ )",
+        "price": "7500",
+        "description": "Our bird cages are thoughtfully crafted with the well-being of your birds in mind. Each cage is constructed using durable materials that ensure longevity and security. The spacious design allows your birds to spread their wings, move freely, and engage in natural behaviors. Our bird cages are not just functional, but also aesthetically pleasing. With a variety of styles and designs available, you can find a cage that complements your home decor while providing a comfortable living space for your birds. From sleek and modern designs to more traditional and decorative options, we have something to suit every taste. Create a comfortable and inviting home for your feathered companions with our premium bird cages. Explore our collection today and discover the perfect cage that combines functionality, safety, and style, providing a sanctuary for your beloved birds to thrive and flourish."
+    },
+    {
+        "id": "11",
+        "petName": "Bird Gloves",
+        "image": "glove.jpg",
+        "age": "Plenty of colours to pick from",
+        "greet": "Hello :)",
+        "screen" : "(≧∇≦)",
+        "hey": "(｡˃ ᵕ ˂ )",
+        "price": "5500",
+        "description": "Our bird gloves are crafted with durable and reliable materials to provide protection while handling birds. They are designed to minimize the risk of scratches or bites, allowing you to confidently handle and train your feathered companions without worry. Comfort is key when it comes to bird gloves. Our gloves are made with soft and breathable materials that provide a gentle touch while maintaining a secure grip. The gloves offer flexibility and dexterity, enabling you to handle your birds with precision and ease. Enhance your bird handling experience with our premium bird gloves. Explore our collection today and discover the perfect gloves that combine safety, comfort, and trust, enabling you to build a stronger connection with your beloved birds."
     }
 ]
