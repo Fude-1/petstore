@@ -9,9 +9,9 @@ This repository contains the source code for our pet online store website. It pr
 
 
 ## Usage
-1. Start the development server.
+  1. Start the development server.
 
-2. Open your web browser and type https://petstoreke.onrender.com to access the store website.
+  2. Open your web browser and type https://petstoreke.onrender.com to access the store website.
 
 
   3.To run locally you can access using localhost:3000 or change the port number to your preference.
