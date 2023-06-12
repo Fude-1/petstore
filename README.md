@@ -1,4 +1,4 @@
-# PETSTORE KE README
+# PETSTOREKE README
 
 ## Description
 This repository contains the source code for our pet online store website. It provides information about the store, allows customers to browse and purchase pets.
@@ -11,18 +11,15 @@ This repository contains the source code for our pet online store website. It pr
 ## Usage
 1. Start the development server.
 
-2. Open your web browser and visit `http://localhost:443` to access the store website.
+2. Open your web browser and type https://petstoreke.onrender.com to access the store website.
+3.To run locally you can access using localhost:3000 or change the port number to your preference.
 
 ## Features
-- User registration and login.
 - Product(pet) browsing and search functionality.
-- Shopping cart management.
-- Secure checkout process.
-- Order history and tracking.
-- Admin dashboard for managing products, orders, and inventory.
+- Provision of pet Accessories.
+- Product prescription and preference.
 
 ## Technologies Used
-- React.js: Front-end framework for building the user interface.
 - Node.js: Back-end runtime environment for server-side logic.
 
 
