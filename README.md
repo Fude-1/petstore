@@ -24,6 +24,10 @@ This repository contains the source code for our pet online store website. It pr
 ## Technologies Used
 - Node.js: Back-end runtime environment for server-side logic.
 
+## Screenshots
+![image](https://github.com/Fude-1/petstore/assets/111246727/ecc1958a-7e32-4711-819c-73cd027ed4b0)
+![image](https://github.com/Fude-1/petstore/assets/111246727/c998e865-c3f9-4f62-acfc-a59df342b3e9)
+![image](https://github.com/Fude-1/petstore/assets/111246727/8cedfb6e-c4d4-4c77-8ce7-3e09c6c0a370)
 
 ## AUTHORS
 
